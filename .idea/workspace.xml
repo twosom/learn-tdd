@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5260fc98-6728-4050-8fd3-3ac0b4f63060" name="변경" comment="" />
+    <list default="true" id="5260fc98-6728-4050-8fd3-3ac0b4f63060" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bowling/BowlingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bowling/BowlingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bowling/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bowling/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exception/Overflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exception/Overflow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exception/Underflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/exception/Underflow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/prime/PrimeFactorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/prime/PrimeFactorsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/queue/QueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/queue/QueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stack/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stack/StackTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +28,36 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="learn-tdd" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NBdevhiDfgnYgTqiaQ7IwFRUVH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,10 +69,123 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bowling" />
+      <recent name="queue" />
+      <recent name="stack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.learn-tdd [clean test]">
+    <configuration name="learn-tdd [clean test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BowlingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn-tdd.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bowling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bowling" />
+      <option name="MAIN_CLASS_NAME" value="bowling.BowlingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BowlingTest.oneSpare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn-tdd.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bowling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bowling" />
+      <option name="MAIN_CLASS_NAME" value="bowling.BowlingTest" />
+      <option name="METHOD_NAME" value="oneSpare" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BowlingTest.oneStrike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn-tdd.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bowling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bowling" />
+      <option name="MAIN_CLASS_NAME" value="bowling.BowlingTest" />
+      <option name="METHOD_NAME" value="oneStrike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BowlingTest.perfectGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn-tdd.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bowling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bowling" />
+      <option name="MAIN_CLASS_NAME" value="bowling.BowlingTest" />
+      <option name="METHOD_NAME" value="perfectGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.learn-tdd [clean test]" />
+        <item itemvalue="JUnit.BowlingTest" />
+        <item itemvalue="JUnit.BowlingTest.perfectGame" />
+        <item itemvalue="JUnit.BowlingTest.oneStrike" />
+        <item itemvalue="JUnit.BowlingTest.oneSpare" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -37,8 +194,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679141510588</updated>
-      <workItem from="1679141511632" duration="2000" />
+      <workItem from="1679141511632" duration="11577000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
